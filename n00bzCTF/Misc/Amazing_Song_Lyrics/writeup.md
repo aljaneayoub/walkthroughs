@@ -6,6 +6,9 @@ This is a wierd png file. I hope you can make some sense out of it!
 
 * Author: NoobMaster
 
+* [Task](https://ctf.n00bzunit3d.xyz/challenges#Amazing%20Song%20Lyrics-12)
+
+* 500 **pts**
 ## **file**
 ![](chall.png)
 
