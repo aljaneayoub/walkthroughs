@@ -7,4 +7,4 @@ This is a wierd png file. I hope you can make some sense out of it!
 *Author: NoobMaster
 
 ## **file**
-![](/chall.png)
+![](chall.png)
