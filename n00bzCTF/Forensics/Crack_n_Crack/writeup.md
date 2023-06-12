@@ -9,7 +9,7 @@ Just Crack & Crack!
 * 500 **pts**
 
 ## **File**
-![](flag.zip)
+![File](flag.zip)
 
 ## **Steps**
 
@@ -19,5 +19,10 @@ the pdf file zipped with password
 
 we will use a dictionary attack to crack a ZIP password with **fcrackzip**
 
-	$fcrackzip -u -D -p rockyou.txt flag.zip
+	fcrackzip -u -D -p rockyou.txt flag.zip
 
+The password of flag.zip
+
+![](zip_password.png)
+
+* 1337h4x0r
